@@ -1,0 +1,60 @@
+body {
+	background-color:lightgreen;
+    background-image: url("paper.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+
+p {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+h2 {
+	color: #000000;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+.heading{
+ width: 100%;
+}
+
+.navbar {
+  width: 100%;
+  background-color: #333;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%; 
+  text-align: center; 
+}
+
+
+
+.subnavbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.subnavbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 33.3%; 
+  text-align: center; 
+}
